@@ -61,10 +61,4 @@ TrianguloEquilateroWebApp/
 Perímetro: 15
 ```
 
-## Contribución
-Este proyecto es educativo. Se pueden realizar mejoras como:
-
-- Validaciones de entrada más robustas  
-- Mejorar la interfaz de usuario con CSS  
-- Extender la clase Triangulo para soportar otros tipos de triángulos  
 
