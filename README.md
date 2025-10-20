@@ -1,4 +1,4 @@
-[README_TrianguloEquilateroWebApp.md](https://github.com/user-attachments/files/22994302/README_TrianguloEquilateroWebApp.md)
+
 # README del Proyecto: Triángulo Equilátero (Java + JSP)
 
 ## Nombre del Proyecto
